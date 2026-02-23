@@ -1,5 +1,12 @@
 # agent-chain-optimizer-python
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/agent-chain-optimizer-python/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/agent-chain-optimizer-python/actions)
+![License](https://img.shields.io/github/license/yksanjo/agent-chain-optimizer-python)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/agent-chain-optimizer-python)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/agent-chain-optimizer-python)
+
 ## Detailed Description
 
 agent-chain-optimizer-python is maintained as an industry-grade software project with production-ready engineering practices.  
